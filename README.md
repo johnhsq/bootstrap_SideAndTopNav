@@ -17,6 +17,6 @@ The sidebar is composed with:
         <li>footer</li>
     </ul>
 
-# How it look like
+# How it looks like
 ![Show sidebar](img/sidebar.show.png?raw=true "Show sidebar")
 ![Hide sidebar](img/sidebar.hide.png?raw=true "Hide sidebar")
