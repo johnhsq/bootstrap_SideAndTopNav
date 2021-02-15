@@ -1,7 +1,7 @@
 # Bootstrap Toggle Sidebar
 Bootstrap doesn't provide a sidebar component. This example is using bootstrap ".navbar" and ".nav", "data-toggle" to implement a sidebar component
 
-#How it works
+# How it works
 The ".toggled" class is used by Javascript to hide and show the sidebar
 ```
     #wrapper.toggled {
@@ -16,3 +16,7 @@ The sidebar is composed with:
         <li>menu</li>
         <li>footer</li>
     </ul>
+
+# How it look like
+![Show sidebar](img/sidebar.show.png?raw=true "Show sidebar")
+![Hide sidebar](img/sidebar.hide.png?raw=true "Hide sidebar")
